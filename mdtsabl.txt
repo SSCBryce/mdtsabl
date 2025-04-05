@@ -1,20 +1,10 @@
-!
-! Description: Increases security! Blocks Malware, Spam, Scam and Phishing.
-! Description: Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
+[Adblock Plus 2.0]
+! Title: Hagezi TIF + Pro Mini (Cleaned & Trimmed)
+! Description: A curated, deduplicated filter list based on Hagezi's TIF and Pro Mini, trimmed to 150k entries for Safari compatibility.
+! Homepage: https://github.com/SSCBryce/mdtsabl
+! Version: 2025.04.05
 ! Expires: 1 day
-! Homepage: https://github.com/hagezi/dns-blocklists
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Last modified: 05 Apr 2025 01:50 UTC
-! Last modified: 05 Apr 2025 03:10 UTC
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Number of entries: 75050
-! Number of entries: 86664
-! Syntax: AdBlock
-! Title: HaGeZi's Pro mini DNS/Browser Blocklist
-! Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
-! Version: 2025.0405.0150.44
-! Version: 2025.0405.0310.02
-[Adblock Plus]
+
 ||0-02.net^
 ||0-02pw.cfd^
 ||0-1-x.16215785.xyz^
@@ -6136,6 +6126,7 @@
 ||adjungle.com^
 ||adjustbedevilsweep.com^
 ||adjustmentconfide.com^
+||adjux.com^
 ||adk.docer.pl^
 ||adk2x.com^
 ||adk5.cc^
@@ -17911,6 +17902,7 @@
 ||armi.media^
 ||armiesmaternity.com^
 ||armin1992.ir^
+||arminius.io^
 ||armoniacenter.com^
 ||armoniaterapias.cl^
 ||armordeflect.pro^
@@ -40903,6 +40895,7 @@
 ||dc708.4sync.com^
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
+||dca.net^
 ||dca.nl^
 ||dcai7bdiz5toz.cloudfront.net^
 ||dcbbwymp1bhlf.cloudfront.net^
@@ -45188,6 +45181,7 @@
 ||dspmega.com^
 ||dspmulti.com^
 ||dspultra.com^
+||dspunion.com^
 ||dspx.tv^
 ||dsras.world^
 ||dsrqowyypz.com^
@@ -53818,6 +53812,7 @@
 ||flourishingcollaboration.com^
 ||flourishinghardwareinhibit.com^
 ||flourishinginnovation.com^
+||flourishingpartnership.com^
 ||flousecuprate.top^
 ||flovefortnightaka.com^
 ||flow-state.co.uk^
@@ -55878,6 +55873,7 @@
 ||g1.163.com^
 ||g1.idg.pl^
 ||g1.v.fwmrm.net^
+||g10102301085.co^
 ||g1188506010.co^
 ||g11edashb1.fun^
 ||g12se.com^
@@ -61781,6 +61777,7 @@
 ||heycryptic.com^
 ||heyelsa.cloud^
 ||heyfusio.com^
+||heylink.com^
 ||heymancheckmyband.com^
 ||heymatic.com^
 ||heyos.com^
@@ -75472,6 +75469,7 @@
 ||loadredir.209-38-229-110.cprapid.com^
 ||loadsurprise.com^
 ||loadtime.org^
+||loafoushuho.com^
 ||loafsmash.com^
 ||loagoshy.net^
 ||loaizaza.xyz^
@@ -78268,6 +78266,7 @@
 ||maintainedencircle.com^
 ||maintenancewinning.com^
 ||maintenanclog.m-pages.com^
+||maio.jp^
 ||maipheeg.com^
 ||maiplaceguidefor.click^
 ||mairdumont.com^
@@ -88339,6 +88338,7 @@
 ||naturalhistorymuseum.tt.omtrdc.net^
 ||naturalizeraustraliaoutlet.com^
 ||naturallysads.com^
+||naturaltracking.com^
 ||naturatiendas.com^
 ||naturebois.com^
 ||naturebunk.com^
@@ -91250,6 +91250,7 @@
 ||nxs.art^
 ||nxsw-tq2.top^
 ||nxszxho.com^
+||nxt-psh.com^
 ||nxtblogger.com^
 ||nxtcrypto.org^
 ||nxtgenerator.top^
@@ -110523,6 +110524,7 @@
 ||scincormatize.com^
 ||scinmab.top^
 ||scintillatingscissors.com^
+||scintillatingsilver.com^
 ||scintillatingspace.com^
 ||scinvdb.top^
 ||scion-capitalllc.myportfolio.com^
@@ -123561,6 +123563,7 @@
 ||talkbdjhbifqfo.weebly.com^
 ||talkbill2024.wixstudio.io^
 ||talkingdata.com^
+||talkingdata.net^
 ||talknotice.com^
 ||talks-google.com^
 ||talkstewmisjudge.com^
@@ -135285,6 +135288,7 @@
 ||tutelatechnologies.com^
 ||tutlers.com^
 ||tuto-connecte.org^
+||tutoads.tv^
 ||tutop.com^
 ||tutorial-snapshot.com^
 ||tutorial-snapshots.com^
@@ -135339,6 +135343,7 @@
 ||tvngrq6yat.com^
 ||tvon.info^
 ||tvpage.com^
+||tvping.com^
 ||tvpixel.com^
 ||tvpnnrungug.xyz^
 ||tvpqnh.xyz^
@@ -143093,6 +143098,7 @@
 ||webim.ru^
 ||webindicator.ru^
 ||webinfotrlog.weebly.com^
+||webinstats.com^
 ||webiughyirgtr.weebly.com^
 ||webjava.casacam.net^
 ||webjavier.com^
@@ -146416,6 +146422,7 @@
 ||xiangyunbo.com^
 ||xiangyuyang.ph^
 ||xianliao.me^
+||xianliao.voto^
 ||xianpowei.com^
 ||xianshangzixun.com^
 ||xiao597.com^
